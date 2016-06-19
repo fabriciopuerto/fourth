@@ -2,6 +2,7 @@
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
 /* This part was built for the home page but might apply to other pages*/
+
 html, body {
   margin: 0;
   padding: 0;
@@ -21,8 +22,8 @@ html, body {
 	color: white;
 }
 .jumbotron{
-  background-image: url(../img/city3_1.jpg);
-background-size: cover;
+  background-image: url("city3_1.jpg");
+  background-size: cover;
 }
 .main{
   color: #fff;
